@@ -1,0 +1,45 @@
+_repo: Fire-and-Sword-in-the-SudanA-Personal-Narrative-of-Fighting-and-Serving-the-Dervishes-1879-18__41035
+_version: 0.1.0
+alternative_title: Fluer und Schwert in Sudan. English
+contributor:
+  translator:
+    agent_name: Wingate, F. R. (Francis Reginald), Sir
+    aliases:
+    - Wingate, Reginald, Sir
+    - Wingate, Francis Reginald, Sir
+    birthdate: 1861
+    deathdate: 1953
+    gutenberg_agent_id: '36087'
+    url: http://www.gutenberg.org/2009/agents/36087
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Slatin, Rudolf Carl, Freiherr von
+    aliases:
+    - Slatin Pascha, Rudolf Carl von
+    - Von Slatin, Rudolf Carl, Freiherr
+    - Slatin-Pascha, Rudolf Carl, Freiherr von
+    birthdate: 1857
+    deathdate: 1932
+    gutenberg_agent_id: '40942'
+    url: http://www.gutenberg.org/2009/agents/40942
+    wikipedia: http://en.wikipedia.org/wiki/Rudolf_Carl_von_Slatin
+description: ''
+gutenberg_issued: '2012-10-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '41035'
+  lccn: 05008278
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Sudan -- History -- 1821-1881'
+- !lcc 'DT'
+title: 'Fire and Sword in the Sudan
+
+  A Personal Narrative of Fighting and Serving the Dervishes 1879-1895'
+url: http://www.gutenberg.org/ebooks/41035
