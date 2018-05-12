@@ -27,6 +27,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/40942
     wikipedia: http://en.wikipedia.org/wiki/Rudolf_Carl_von_Slatin
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/41035#Fire-and-Sword-in-the-SudanA-Personal-Narrative-of-Fighting-and-Serving-the-Dervishes-1879-18_
 gutenberg_issued: '2012-10-12'
 gutenberg_type: Text
 identifiers:
